@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي في ليل الهوى ناديت
+> بنار الشوق في عيوني حكيت
+> سمعت النداء وفي القلب أوفيت
+> لأنك النور الذي ما نسيت
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
