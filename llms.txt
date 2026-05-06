@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/wad3-taleb/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Wad3 Taleb](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
