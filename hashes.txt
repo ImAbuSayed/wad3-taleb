@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wad3 Taleb
+
+This log tracks the cryptographic history and versioning for the song **Wad3 Taleb** (wad3-taleb).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:21:35.415164 | `v1` | `5d6ed9d879e364e055cc10dc9e31354801d0d7c234c5a0b43689c943e74a62e1` | `dd3b7f15ee351011ec57cdd710ef26429f75fe7e827b874b33d63f398bcddff6` | `2026-05-09_wad3-taleb-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
